@@ -3,6 +3,10 @@ body{
     font: 16px Arial, Helvetica, sans-serif;
 }
 
+h1{
+    color: #828271;
+    font-size: 1.2em;
+}
 #principal{
     width: 900px;
 }
